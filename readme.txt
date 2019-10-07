@@ -1,0 +1,5 @@
+﻿The Interactive Python Trainer -- Readme
+
+
+This project is called the Interactive Python Trainer. It serves as an interactive study tool to help students learn how to properly construct functions in Python based on tasks and guided steps inputted by teachers. Because of the variety in prompts that teachers can provide, students also gain experience analyzing what individual lines of code do, identifying errors in code, and writing their own lines based on teacher prompts. Overall, this teacher-guided study tool helps to provide students with a more robust understanding of Python and greater confidence when constructing their own functions.
+To run this project, the file __init__.py should be executed, which will import the necessary functions from the other Python files in the directory. This project uses the following libraries: string, tkinter, sqlite3, and nltk. My project does not have any shortcut commands.
